@@ -1,2 +1,2 @@
 # Compiler-Development
-Developed a compiler including lever, parser and type checker from scratch using C++
+Developed a compiler including lexer, parser and type checker from scratch using C++
