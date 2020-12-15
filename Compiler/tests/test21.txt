@@ -1,0 +1,6 @@
+a, b: int;
+c: int;
+{
+x = + a * b c;
+y = ! true;
+}

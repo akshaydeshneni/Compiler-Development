@@ -1,0 +1,11 @@
+a,b;
+foo {
+              a = b;
+	world {
+	              public: a,b,c;
+	              a = b;
+	}
+	{
+	a = c;
+		
+	}

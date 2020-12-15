@@ -1,0 +1,3 @@
+::a = ::b
+world.a = world.b
+::a = ?.c
