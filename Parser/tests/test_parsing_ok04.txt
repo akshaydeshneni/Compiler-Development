@@ -1,0 +1,9 @@
+a, b;
+hello {
+ private: a;
+ world {
+  public: a;
+  a = b;
+ }
+ a = b;
+}

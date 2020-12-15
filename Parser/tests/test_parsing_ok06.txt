@@ -1,0 +1,9 @@
+a,b;
+hello {
+              public: c,d;
+              c = d
+              world {
+                             a = b
+              }
+    }
+    a = b
